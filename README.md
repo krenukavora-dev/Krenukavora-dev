@@ -24,6 +24,7 @@ clear, actionable insights.
 - Exploring Machine Learning, NLP, and Generative AI
 
 ## 📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Renuka%20Vora-blue?logo=linkedin)](https://www.linkedin.com/in/renuka-vora-84345b395)
 [![GitHub](https://img.shields.io/badge/GitHub-krenukavora--dev-black?logo=github)](https://github.com/krenukavora-dev)
 [![Email](https://img.shields.io/badge/Email-krenukavora%40gmail.com-red?logo=gmail)](mailto:krenukavora@gmail.com)
